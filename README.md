@@ -1,2 +1,2 @@
 # Java AUK
-AUK Java Program Repository
+AUK Java Programs Repository
